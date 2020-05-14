@@ -19,11 +19,11 @@ object_oriented_languages.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+object_oriented_languages.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+object_oriented_languages[1]
 end
 
 def retrieve_first_element_from_array(array)
