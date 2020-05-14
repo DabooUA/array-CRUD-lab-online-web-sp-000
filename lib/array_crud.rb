@@ -11,7 +11,7 @@ object_oriented_languages.push("C+")
 end
 
 def add_element_to_start_of_array(array, element)
-
+object_oriented_languages.unshift("Scala")
 end
 
 def remove_element_from_end_of_array(array)
