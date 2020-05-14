@@ -27,9 +27,9 @@ create_an_array[1]
 end
 
 def retrieve_first_element_from_array(array)
-object_oriented_languages.first
+create_an_array.first
 end
 
 def retrieve_last_element_from_array(array)
-object_oriented_languages[-1]
+create_an_array[-1]
 end
