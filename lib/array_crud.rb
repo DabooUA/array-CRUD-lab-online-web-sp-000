@@ -15,15 +15,15 @@ create_an_array.unshift(element)
 end
 
 def remove_element_from_end_of_array(array)
-object_oriented_languages.pop
+create_an_array.pop
 end
 
 def remove_element_from_start_of_array(array)
-object_oriented_languages.shift
+create_an_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-object_oriented_languages[1]
+create_an_array[1]
 end
 
 def retrieve_first_element_from_array(array)
