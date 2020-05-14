@@ -6,7 +6,7 @@ def create_an_array
 object_oriented_languages = ["Ruby", "Java", "Python", "Kotlin"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(object_oriented_languages, element)
 object_oriented_languages.push("C+")
 end
 
