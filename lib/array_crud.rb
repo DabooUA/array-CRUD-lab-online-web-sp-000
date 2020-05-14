@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-object_oriented_languages = ["Ruby", "Java", "Python", "Kotlin"]
+my_array = ["Ruby", "Java", "Python", "Kotlin"]
 end
 
 def add_element_to_end_of_array(array, element)
-object_oriented_languages.push(element)
+my_array.push(element)
 end
 
 def add_element_to_start_of_array(array, element)
